@@ -27,4 +27,4 @@ To get started with SSEExample, follow these steps:
 
 ## Server-Sent Events (SSE)
 
-SSEExample demonstrates how to implement Server-Sent Events for real-time updates. SSE is a simple and efficient way to send real-time updates from the server to the client over a single HTTP connection. The SSE endpoint can be found in the `Controllers/WeatherForecastController.cs`  file `EventStream` method.
+SSEExample demonstrates how to implement Server-Sent Events for real-time updates. SSE is a simple and efficient way to send real-time updates from the server to the client over a single HTTP connection. The SSE endpoint can be found in the `Controllers/WeatherForecastController.cs`  file `EventStream` method and EventStreamComponent in the `ClientApp/src/components/EventStream.js`
